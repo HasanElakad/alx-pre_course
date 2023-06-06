@@ -1,2 +1,1 @@
-new project
-update
+new project update
